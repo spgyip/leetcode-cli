@@ -1,4 +1,7 @@
-This repository is forked from [skygragon/leetcode-cli](https://github.com/skygragon/leetcode-cli). 
+This repository is forked from [skygragon/leetcode-cli](https://github.com/skygragon/leetcode-cli). It seems the source repository is not maintained, I fix some issues here.
+
+- Fix warnings message caused by old dependencies.
+- Fix `leetcode show ID` fail.
 
 # leetcode-cli
 
