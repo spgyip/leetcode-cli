@@ -1,6 +1,6 @@
 {
-  "name": "leetcode-cli",
-  "version": "2.6.2",
+  "name": "@supergui/leetcode-cli",
+  "version": "3.0.0",
   "description": "A cli tool to enjoy leetcode!",
   "preferGlobal": "true",
   "engines": {
@@ -32,7 +32,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/skygragon/leetcode-cli.git"
+    "url": "http://github.com/spgyip/leetcode-cli.git"
   },
   "keywords": [
     "leetcode",
@@ -41,14 +41,14 @@
     "tool"
   ],
   "author": {
-    "name": "Eric Wang",
-    "email": "skygragon@gmail.com"
+    "name": "Supergui",
+    "email": "supergui@live.cn"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/skygragon/leetcode-cli/issues"
+    "url": "https://github.com/spgyip/leetcode-cli/issues"
   },
-  "homepage": "https://github.com/skygragon/leetcode-cli#readme",
+  "homepage": "https://github.com/spgyip/leetcode-cli#readme",
   "dependencies": {
     "ansi-styles": "^3.2.1",
     "cheerio": "0.22.0",
